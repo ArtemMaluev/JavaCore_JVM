@@ -1,0 +1,20 @@
+﻿# игнорировать файлы с расширением 
+homework_1/.idea
+homework_1/src
+homework_1/out
+homework_1/*.iml
+#
+homework_2/.gradle
+homework_2/.git
+homework_2/build
+homework_2/.idea
+homework_2/gradle
+homework_2/src
+#
+homework_2/*.gradle
+homework_2/gradlew
+homework_2/*.bat
+#
+Вывод консоли.png
+
+
